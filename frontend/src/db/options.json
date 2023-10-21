@@ -1,0 +1,58 @@
+[
+  { 
+    "id": 1,
+    "web": "SkyScanner", 
+    "type": "Vuelos Disponibles",
+    "info": "Extraer información de los vuelos en oferta disponibles para hoy",
+    "icon": "🛫"
+  },
+  { 
+    "id": 2,
+    "web": "Booking", 
+    "type": "Mejores Hoteles",
+    "info": "Extraer información de los mejores hoteles disponibles para hoy",
+    "icon": "🏨"
+  },
+  { 
+    "id": 3,
+    "web": "TripAdvisor", 
+    "type": "Actividades Populares" ,
+    "info": "Extraer información de las actividades más populares para hoy",
+    "icon": "🏄"
+  },
+  { 
+    "id": 4,
+    "web": "Airbnb", 
+    "type": "Alojamientos Únicos",
+    "info": "Extraer información de los alojamientos más únicos disponibles para hoy",
+    "icon": "🏡"
+  },
+  { 
+    "id": 5,
+    "web": "Kayak", 
+    "type": "Ofertas de Última Hora",
+    "info": "Extraer información de las ofertas de última hora disponibles para hoy",
+    "icon": "🏖️"
+  },
+  { 
+    "id": 6,
+    "web": "Eventbrite", 
+    "type": "Eventos Locales",
+    "info": "Extraer información de los eventos locales disponibles para hoy",
+    "icon": "🎉"
+  },
+  { 
+    "id": 7,
+    "web": "Lonely Planet", 
+    "type": "Itinerarios Sugeridos",
+    "info": "Extraer información de los itinerarios sugeridos disponibles para hoy",
+    "icon": "🗺️"
+  },
+  { 
+    "id": 8,
+    "web": "Weather.com", 
+    "type": "Pronóstico del Clima",
+    "info": "Extraer información del pronóstico del clima para hoy",
+    "icon": "🌤️"
+  }
+]

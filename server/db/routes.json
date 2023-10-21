@@ -1,0 +1,42 @@
+[
+  { 
+    "id": 1,
+    "web": "SkyScanner",
+    "url": "https://www.skyscanner.com/"
+  },
+  { 
+    "id": 2,
+    "web": "Booking",
+    "url": "https://www.booking.com/"
+  },
+  { 
+    "id": 3,
+    "web": "TripAdvisor",
+    "url": "https://www.tripadvisor.com/"
+  },
+  { 
+    "id": 4,
+    "web": "Airbnb",
+    "url": "https://www.airbnb.com/"
+  },
+  { 
+    "id": 5,
+    "web": "Kayak",
+    "url": "https://www.kayak.com/"
+  },
+  { 
+    "id": 6,
+    "web": "Eventbrite",
+    "url": "https://www.eventbrite.com/"
+  },
+  { 
+    "id": 7,
+    "web": "Lonely Planet",
+    "url": "https://www.lonelyplanet.com/"
+  },
+  { 
+    "id": 8,
+    "web": "Weather.com",
+    "url": "https://weather.com/"
+  }
+]
